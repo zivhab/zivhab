@@ -20,5 +20,4 @@ Reach out — I’d love to connect!
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-
-Portfolio coming soon... 👀*
+Portfolio coming soon... 👀

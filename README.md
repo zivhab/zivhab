@@ -1,8 +1,8 @@
 ## Welcome to My World 🌍 — Zivha here ✨
 
-### Quietly building with intention — where logic meets intention.
+#### Quietly building with intention — where logic meets intention.
 
-🎓 *Computer Science student @UoE ('27)*  
+🎓 Computer Science student @UoE ('27)
 🔍 Currently exploring:  
 AI 🤖 · Machine Learning 📊 · Data Science 📈 · Cybersecurity 🔐 · Web3 & Blockchain 🌐
 

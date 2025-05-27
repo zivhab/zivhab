@@ -5,7 +5,7 @@
 - 🎓 Computer Science student @UoE ('27)
 
 - 🔍 Currently exploring:  
-AI 🤖 · Machine Learning 📊 · Data Science 📈 · Cybersecurity 🔐 · Web3 & Blockchain 🌐
+*AI 🤖 · Machine Learning 📊 · Data Science 📈 · Cybersecurity 🔐 · Web3 & Blockchain 🌐*
 
 ---
 

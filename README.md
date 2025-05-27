@@ -2,8 +2,9 @@
 
 #### Quietly building with intention — where logic meets intention.
 
-🎓 Computer Science student @UoE ('27)
-🔍 Currently exploring:  
+- 🎓 Computer Science student @UoE ('27)
+
+- 🔍 Currently exploring:  
 AI 🤖 · Machine Learning 📊 · Data Science 📈 · Cybersecurity 🔐 · Web3 & Blockchain 🌐
 
 ---

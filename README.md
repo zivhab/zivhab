@@ -21,4 +21,4 @@ Reach out — I’d love to connect!
 </a>
 
 
-* Portfolio coming soon... 👀*
+Portfolio coming soon... 👀*

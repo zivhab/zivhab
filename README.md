@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome to My World 🌍
 
-<!--
-**zivhab/zivhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Zivha!
 
-Here are some ideas to get you started:
+### About Me 
+- 🎓 Computer Science student @ UoE ('27)  
+- 💡 Passionate about too much! But mostly tech 💻, food 🍟, travel 🧳, and personal growth 🌱  
+- 🔍 Currently exploring AI 🤖, ML 📊, data science 📈, cybersecurity 🔐, and decentralized systems 🌐 (Web3 & blockchain 🪙)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Tech & Tools
+- 💬 Languages: Python, Java, JavaScript, SQL, PHP
+- 🌐 Web: HTML, CSS, React, Tailwind CSS
+- 🧰 Tools & IDEs: GitHub, VS Code, IntelliJ IDEA, Jupyter Notebook, Figma  
+
+### Let’s Connect 🤝
+Have a question, idea, or just want to chat?  
+Reach out — I’d love to connect!
+
+<a href="https://linkedin.com/in/zivhab" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+
+* Portfolio coming soon... 👀*

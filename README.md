@@ -1,6 +1,6 @@
 ## Welcome to My World 🌍 — Zivha here ✨
 
-#### Quietly building with intention — where logic meets intention.
+#### Using what I know to build what matters. 
 
 - 🎓 Computer Science student @UoE ('27)
 
